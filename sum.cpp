@@ -2,7 +2,8 @@
 using namespace std;
 int main(){
     int a,b;
-    cin>>a>>b>>endl;
-    cout<<"The sum is "<<a+b<<endl;
+    cout<<"Enter the value of a and b"<<endl;
+    cin>>a>>b;
+    cout<<"The sum is "<<a+b << endl;
 
 }
